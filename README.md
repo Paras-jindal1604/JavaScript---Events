@@ -64,9 +64,9 @@ When an event occurs, JavaScript creates an `event` object containing useful inf
   
 ### 🔹 event.clientX / event.clientY
 
-clientX: X-coordinate (horizontal) of the mouse relative to the viewport
+- clientX: X-coordinate (horizontal) of the mouse relative to the viewport
 
-clientY: Y-coordinate (vertical) of the mouse relative to the viewport
+- clientY: Y-coordinate (vertical) of the mouse relative to the viewport
 
 
 ---
